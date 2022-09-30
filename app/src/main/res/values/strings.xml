@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Map_Integretion</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="credit">Credit</string>
+    <string name="google_maps">Google Maps</string>
+
 </resources>
